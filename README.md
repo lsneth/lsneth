@@ -8,3 +8,33 @@
   - The next technologies I plan to start digging into are Next.js, GraphQL, and Tailwind CSS.
 
 Feel free to reach out: luke+github@nethercott.com
+
+<details>
+<summary>Technology/Language Experience Summary</summary>
+</br>
+  
+| Technology/Language | Dabbled | Practiced | Created | Deployed |
+|---------------------|---------|-----------|---------|----------|
+| JavaScript ||||✅|
+| TypeScript ||||✅|
+| HTML ||||✅|
+| CSS ||||✅|
+| React ||||✅|
+| React Native |||✅||
+| Supabase |||✅||
+| Python ||✅|||
+| C# |✅||||
+| Java |✅||||
+| Clojure |✅||||
+| Erlang |✅||||
+| Next.js |||||
+| GraphQL |||||
+| Tailwind CSS |||||
+
+- Dabbled: I have used the language/technology, but have not created a project that uses it
+- Practiced: I have created a small project(s) that uses the language/technology
+- Created: I have created an extenstive project(s) that uses the language/technology
+- Deployed: I have deployed a project(s) that uses the language/technology
+
+</details>
+
