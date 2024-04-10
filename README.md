@@ -9,8 +9,23 @@
 
 Feel free to reach out: luke+github@nethercott.com
 
+# Experience
+
 <details>
-<summary>Technology/Language Experience Summary</summary>
+<summary>Work</summary>
+
+- FamilySearch Web Development Student Engineer: 4.23 - Current
+  - Develop and maintain web applications using React and React Hooks, create documentation and demos, write unit
+tests, work and communicate with front and back end developers as well as product management and UX, take part in team communication and engineering improvement discussions, track and improve personal work velocity
+
+- FamilySearch Web Development Intern: 1.23 - 4.23
+  - Develop and maintain web applications using React and React Hooks, create documentation and demos, write unit
+tests, work and communicate with front and back end developers as well as product management and UX, take part in team communication and engineering improvement discussions, track and improve personal work velocity
+
+</details>
+
+<details>
+<summary>Technologies/Languages</summary>
 </br>
   
 | Technology/Language | Dabbled | Practiced | Created | Deployed |
@@ -31,10 +46,10 @@ Feel free to reach out: luke+github@nethercott.com
 | GraphQL |||||
 | Tailwind CSS |||||
 
-- Dabbled: I have used the language/technology, but have not created a project that uses it
-- Practiced: I have created a small project(s) that uses the language/technology
-- Created: I have created an extenstive project(s) that uses the language/technology
-- Deployed: I have deployed a project(s) that uses the language/technology
+- **Dabbled**: I have used the language/technology, but have not created a project that uses it
+- **Practiced**: I have created a small project(s) that uses the language/technology
+- **Created**: I have created an extenstive project(s) that uses the language/technology
+- **Deployed**: I have deployed a project(s) that uses the language/technology
 
 </details>
 
