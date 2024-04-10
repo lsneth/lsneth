@@ -12,13 +12,16 @@
 <details>
 <summary>Work</summary>
 
-- FamilySearch Web Development Student Engineer: 4.23 - Current
+- FamilySearch Web Development Student Engineer: Apr 2023 - Current
   - Develop and maintain web applications using React and React Hooks, create documentation and demos, write unit
 tests, work and communicate with front and back end developers as well as product management and UX, take part in team communication and engineering improvement discussions, track and improve personal work velocity
 
-- FamilySearch Web Development Intern: 1.23 - 4.23
+- FamilySearch Web Development Intern: Jan 23 - Apr 2023
   - Develop and maintain web applications using React and React Hooks, create documentation and demos, write unit
 tests, work and communicate with front and back end developers as well as product management and UX, take part in team communication and engineering improvement discussions, track and improve personal work velocity
+
+- Real Hero Studios Catch-all: Apr 2020 - Dec 2022
+  - Develop and maintain a Shopify website, create and manage successful Facebook and email marketing campaigns, serve customers daily through calls/emails/messages, fill online customer store orders
 
 </details>
 
