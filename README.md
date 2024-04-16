@@ -43,9 +43,9 @@ tests, work and communicate with front and back end developers as well as produc
 | Java |✅||||
 | Clojure |✅||||
 | Erlang |✅||||
-| Next.js |||||
+| Next.js |✅||||
+| Tailwind CSS |✅||||
 | GraphQL |||||
-| Tailwind CSS |||||
 
 - **Dabbled**: I have used the language/technology, but have not created a project that uses it
 - **Practiced**: I have created a small project(s) that uses the language/technology
